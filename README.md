@@ -48,8 +48,3 @@ It was built using **Power BI** with data visualization techniques to extract in
 - Predictive analytics on delivery times and ratings.
 - More granular segmentation of food categories.
 
----
-
-## 🙌 Author
-Developed by **[Mohammad Mohsin]**  
-📍 Data Analyst | Business Intelligence | Data Visualization
